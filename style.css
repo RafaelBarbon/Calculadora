@@ -1,0 +1,55 @@
+/*Rafael Silva Barbon RA: 19243633*/
+.button {
+    background-color: #7a53a7; 
+    border: none;
+    color: white;
+    padding: 15px 49px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    border-radius: 50%;
+    border: 2px solid #322369;
+    margin: 6px 4px;
+  }
+
+  .buttonon {
+    background-color: #537ea7ad; 
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align:center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 32px;
+    border-radius: 50%;
+    border: 2px solid #322369;
+    margin: 6px 4px;
+  }
+
+  .visor {
+    background-color: #d4c8e2; 
+    border: none;
+    color: rgb(55, 18, 80);
+    padding: 54px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    border: 4px solid #614caf;
+    border-radius: 12px;
+    margin: 6px 4px;
+  }
+
+  .border{
+    background-color: #794fafc0; 
+    border: none;
+    color: rgb(55, 18, 80);
+    padding: 40px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 5px solid #614caf;
+    border-radius: 12px;
+  }
